@@ -15,7 +15,7 @@ git clone https://github.com/ashera465/Capstone-ECE-27-411
 cd <repository-name>
 ```
 *Note: Git automatically sets up the remote configuration (`origin`) when you clone.*
-*It will also ask for PAT authentication since only collaborators can interact with this repo*
+*It will also ask for PAT authentication token since only collaborators can interact with this repo*
 *You can find tutorials on how to get those if you don't have one already*
 ---
 
