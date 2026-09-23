@@ -47,7 +47,3 @@ git push -u origin main
   ```bash
   git remote -v
   ```
-* **Change Your Remote URL:** Update the link if you made a typo or switched authentication methods (e.g., from HTTPS to SSH):
-  ```bash
-  git remote set-url origin <NEW_REMOTE_URL>
-  ```
