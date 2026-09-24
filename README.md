@@ -56,10 +56,10 @@ git push
   git remote -v
   ```
 * **Verify Branches in Local Git Repo:** Check which branches are being tracked by git:
-  Git highlight in green which branch you're working in.
-  There should be at least
-  *'main' <-- Working branch
-  *'remote/origin/main'
+  Git highlights in green which branch you're working in.
+  There should be at least:
+  * `main` <-- Working branch
+  * `remotes/origin/main` <-- Remote tracking branch
   ```bash
   git branch -a
   ```
