@@ -40,11 +40,15 @@ git add .
 # Commit the files with a message
 git commit -m "<Message describing the commit>"
 
+# Pull repository code to account for other changes made
+git pull --rebase origin main
+
 # Push your code and set the upstream tracking branch
 git push -u origin main
 ```
 Once the upstream tracking branch is set, in further pushes you only need to run
 ```bash
+git pull --rebase origin main
 git push 
 ```
 ---
