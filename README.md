@@ -15,7 +15,8 @@ git clone https://github.com/ashera465/Capstone-ECE-27-411
 cd Capstone-ECE-27-411/
 ```
 *Note: Git automatically sets up the remote configuration (`origin`) when you clone.*
-*It will also ask for PAT authentication token since only collaborators can interact with this repo*
+*So whenever you use 'origin' its a alias for "github.com/ashera465/Capstone-ECE-27-411/"
+*It will also ask for a PAT (personal authentication token), or a GitHub login interface may show up, if you have not set that up with your Github account on Git's global setup or Windows GCM since only collaborators can interact with this repo*
 *You can find tutorials on how to get those if you don't have one already*
 ---
 
