@@ -17,7 +17,7 @@ cd Capstone-ECE-27-411/
 *Note: Git automatically sets up the remote configuration (`origin`) when you clone.*
 *So whenever you use 'origin' its a alias for "github.com/ashera465/Capstone-ECE-27-411/"*
 *It will also ask for a PAT, or a GitHub login interface may show up*
-*You can find tutorials on how to get those if you don't have one already*
+*You can find tutorials on how to set authentication up*
 ---
 
 At this point a local git repo is made, and it is linked to this remote repo.
