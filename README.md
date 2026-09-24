@@ -28,7 +28,7 @@ At this point a local git repo is made, and it is linked to this remote repo.
 
 ### 2. Making commits
 
-Firstly, make sure that if you're working on something do it inside a folder that only you're interacting with.
+Firstly, make sure that if you're working on something do it inside a folder or file that only you're interacting with.
 Otherwise we have to deal with merge conflicts.
 
 Anyway, open the terminal, navigate to the local project folder (of the cloned repo), and run the following commands:
