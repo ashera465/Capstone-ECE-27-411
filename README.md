@@ -18,7 +18,7 @@ cd Capstone-ECE-27-411/
 
 *So whenever you use 'origin' its a alias for "github.com/ashera465/Capstone-ECE-27-411/"*
 
-**It will also ask for a PAT, or a GitHub login interface may show up.**
+**It may also ask for a PAT, or a GitHub login interface may show up.**
 
 *You can find tutorials on how to set authentication up*
 
