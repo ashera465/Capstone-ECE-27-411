@@ -58,8 +58,8 @@ git push
 * **Verify Branches in Local Git Repo:** Check which branches are being tracked by git:
   Git highlight in green which branch you're working in.
   There should be at least
-  'main' <-- Working branch
-  'remote/origin/main'
+  *'main' <-- Working branch
+  *'remote/origin/main'
   ```bash
   git branch -a
   ```
