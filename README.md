@@ -12,7 +12,7 @@ This guide outlines the steps to connect to this repo.
 git clone https://github.com/ashera465/Capstone-ECE-27-411
 
 # Move into the newly created project folder
-cd <repository-name>
+cd Capstone-ECE-27-411/
 ```
 *Note: Git automatically sets up the remote configuration (`origin`) when you clone.*
 *It will also ask for PAT authentication token since only collaborators can interact with this repo*
@@ -38,7 +38,10 @@ git commit -m "<Message describing the commit>"
 # Push your code and set the upstream tracking branch
 git push -u origin main
 ```
-
+Once the upstream tracking branch is set, in further pushes you only need to run
+```bash
+git push 
+```
 ---
 
 ## Useful Troubleshooting Commands
