@@ -48,7 +48,7 @@ git push -u origin main
 ```
 Once the upstream tracking branch is set, in further pushes you only need to run
 ```bash
-git pull --rebase origin main
+git pull --rebase
 git push 
 ```
 ---
