@@ -7,5 +7,5 @@ to build the aravis sdk.
 
 It is also reliant on some glib dlls and may fail if Make can't find them. 
 Also some glib exe may be blocked by an Application Control Policy.
-For some reason a lot of msys exe files are not certified by Microsoft, so the antivirus defender blocks it.
+For some reason a lot of msys exe files are not certified by Microsoft, so the antivirus defender blocks it as a false positive.
 Just add the msys folder to the exclusions.
