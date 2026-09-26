@@ -1,2 +1,4 @@
+
 aravis_sdk/
-aravis-0.8.36/
+aravis-0.8.36/aravis-0.8.36/src/build/
+.gitignore
